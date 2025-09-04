@@ -1,1 +1,11 @@
-this is a css file and i am making changes to it.
+body{
+    background-color: lightgreen;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid darkgreen;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    
+}
